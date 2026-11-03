@@ -64,5 +64,115 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-birkinbagstock-com is a company surfaced via the API Evangelist harvest backlog (source: mcp-registry) and added to the network as a stub for full-pipeline profiling.
-- https://birkinbagstock.com/
+BirkinBagStock operates an online marketplace that lists authenticated new and pre‑owned Hermès Birkin bags from 143 luxury resellers. It provides tools such as AI‑powered search, price guides, market reports, and a direct seller‑to‑buyer listing service for owners to sell their bags. The site targets collectors and buyers seeking verified Birkin inventory and market data.
+
+**Areas:** Luxury Resale · Marketplace · Authentication · Price Index · Bag Marketplace · Collector Tools
+
+## birkinbagstock-com on APIs.io
+
+Everything profiled for birkinbagstock-com is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/birkinbagstock-com/](https://apis.io/providers/birkinbagstock-com/)** — or go straight to one of the APIs or properties below.
+
+### APIs (13)
+
+- [birkinbagstock-com Alternatives API](https://apis.io/apis/birkinbagstock-com/birkinbagstock-com-alternatives-api/) — The Alternatives API from birkinbagstock-com — 2 operation(s) for alternatives.
+- [birkinbagstock-com Auction Results API](https://apis.io/apis/birkinbagstock-com/birkinbagstock-com-auction-results-api/) — The Auction Results API from birkinbagstock-com — 1 operation(s) for auction results.
+- [birkinbagstock-com Auctions API](https://apis.io/apis/birkinbagstock-com/birkinbagstock-com-auctions-api/) — The Auctions API from birkinbagstock-com — 1 operation(s) for auctions.
+- [birkinbagstock-com Buy API](https://apis.io/apis/birkinbagstock-com/birkinbagstock-com-buy-api/) — The Buy API from birkinbagstock-com — 1 operation(s) for buy.
+- [birkinbagstock-com Data API](https://apis.io/apis/birkinbagstock-com/birkinbagstock-com-data-api/) — The Data API from birkinbagstock-com — 6 operation(s) for data.
+- [birkinbagstock-com Freshness API](https://apis.io/apis/birkinbagstock-com/birkinbagstock-com-freshness-api/) — The Freshness API from birkinbagstock-com — 1 operation(s) for freshness.
+- [birkinbagstock-com Inventory API](https://apis.io/apis/birkinbagstock-com/birkinbagstock-com-inventory-api/) — The Inventory API from birkinbagstock-com — 1 operation(s) for inventory.
+- [birkinbagstock-com Listing API](https://apis.io/apis/birkinbagstock-com/birkinbagstock-com-listing-api/) — The Listing API from birkinbagstock-com — 2 operation(s) for listing.
+- [birkinbagstock-com Merchants API](https://apis.io/apis/birkinbagstock-com/birkinbagstock-com-merchants-api/) — The Merchants API from birkinbagstock-com — 1 operation(s) for merchants.
+- [birkinbagstock-com News API](https://apis.io/apis/birkinbagstock-com/birkinbagstock-com-news-api/) — The News API from birkinbagstock-com — 1 operation(s) for news.
+- [birkinbagstock-com Recommend API](https://apis.io/apis/birkinbagstock-com/birkinbagstock-com-recommend-api/) — The Recommend API from birkinbagstock-com — 1 operation(s) for recommend.
+- [birkinbagstock-com Services API](https://apis.io/apis/birkinbagstock-com/birkinbagstock-com-services-api/) — The Services API from birkinbagstock-com — 1 operation(s) for services.
+- [birkinbagstock-com .well Known API](https://apis.io/apis/birkinbagstock-com/birkinbagstock-com-well-known-api/) — The .well Known API from birkinbagstock-com — 1 operation(s) for .well known.
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### Agentic access (1)
+
+Which operations an agent can call, which act, and which need a human in the loop.
+
+- [Birkinbagstock Com Agentic Access](https://apis.io/agentic-access/birkinbagstock-com/birkinbagstock-com-agentic-access/)
+
+#### Governance rules (1)
+
+Spectral rulesets for the provider's contracts.
+
+- [birkinbagstock-com API Rules](https://apis.io/rules/birkinbagstock-com/birkinbagstock-com-rules/)
+
+#### Security (1)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Birkinbagstock Com Domain Security](https://apis.io/security/birkinbagstock-com/birkinbagstock-com-domain-security/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://birkinbagstock.com/)
+- [Getting started](https://birkinbagstock.com/cli.txt)
+- [API reference](https://birkinbagstock.com/docs)
+- [Pricing](https://birkinbagstock.com/guide/pricing)
+- [Blog](https://birkinbagstock.com/blog)
+- [Terms of service](https://birkinbagstock.com/terms)
+- [Privacy policy](https://birkinbagstock.com/privacy)
+
+## API Evangelist rating
+
+**Kin Score 36.6** — thin · rubric 0.25.0 · scored 2026-11-03
+
+| Facet | Score |
+|---|---|
+| Discoverability | 66.7 |
+| Contract quality | 35.9 |
+| Contract governance | 65.5 |
+| Operational transparency | 0.0 |
+| Developer ergonomics | 31.0 |
+| Access clarity | 31.6 |
+
+**Agent readiness 24.9** — agent-aware
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | yes |
+| Agentic Access | unknown |
+| Reversibility Documented | — |
+| MCP Server | documented (partial credit) |
+| Auth Clarity | — |
+| Idempotency | — |
+| Error Semantics | derived (partial credit) |
+| OpenAPI Examples | — |
+| Rate Limit Signal | — |
+| Event Surface Described | — |
+| Agent Skills | — |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+| Pagination Ratio | na |
+| Operation Distinctiveness | distinct |
+
+**Regulatory alignment 18.6** — Horizontal (data, software, accessibility, platform)
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/birkinbagstock-com/](https://apis.io/providers/birkinbagstock-com/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for birkinbagstock-com: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/birkinbagstock-com/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
